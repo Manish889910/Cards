@@ -1,0 +1,22 @@
+body{background-image: url(https://i.pinimg.com/originals/f8/dc/21/f8dc214f382f001c569e49771557af17.jpg);background-position: center;background-repeat: no-repeat;background-size: cover;}
+/* #maindiv{border: 2px solid black;width: 700px;height: 400px;background-image: url(https://img.freepik.com/premium-photo/valentines-background-red-heart-beautiful-background-valentines-love-romantic-abstract-wallpaper_636537-154700.jpg);background-position: center;background-repeat: no-repeat;background-size: cover;} */
+#subdiv1,#subdiv2,#subdiv3{background-image: url(https://i.pinimg.com/originals/e8/5f/d1/e85fd12519d6134c996009d3731b8f90.jpg);background-position: center;background-repeat: no-repeat;background-size: contain;background-size: 100% 550px; height: 550px;width: 320px;margin: 24px; border: 2px solid rgb(23, 22, 22);box-shadow: 10px 10px 5px rgba(218, 165, 32, 0.6) ;}
+#subdiv2{margin-left: 410px;margin-top: -575px;}
+#subdiv3{margin-left: 820px;margin-top: -575px;}
+/* #circle{border: 2px solid black;height: 90px; width: 90px;margin-top: 20px;border-radius: 50%;}
+#circle2{border: 2px solid black;height: 80px; width: 80px;margin-top: 2.5px;border-radius: 50%; background-color: rgba(245, 245, 245, 0.639);} */
+#para1 {color: white;font-size: 60px;margin-top: 80px;font-family: "Roboto Mono", monospace;text-shadow: 4px 6px 6px rgba(199, 179, 179, 0.982);width: 100px;}
+#rupee{color: white; font-size: 20px;}
+#para2{letter-spacing: -2px;font-size: 24px;color: white;margin-top: -50px;}
+#para3{color: white;}
+#check{color: green;padding-left: 36px;}
+#check2{color: green;padding-left: 20px;}
+#wrong{color: rgb(255, 64, 0);padding-left: 11px;}
+#para4{color: white;}
+#wrong2{color:  rgb(255, 64, 0);padding-left:9px;}
+#purchase{border: 2px solid none;height: 70px; width: 190px;border-radius: 45%;background-image: url(https://w0.peakpx.com/wallpaper/559/3/HD-wallpaper-green-leaf-texture-green-leaf-eco-background-green-leaf-background-natural-textures.jpg);background-position: center;background-repeat: no-repeat;background-size: 190px 70px;margin-top: -13px;}
+#para5{color: rgb(244, 247, 244);font-size: 25px;padding-top: 17px;}
+a{text-decoration: none;}
+#para5:hover{font-size: 30px;color: rgb(255, 255, 0);text-shadow: 3px 3px 2px red;}
+#purchase:hover{background-image: url(https://w0.peakpx.com/wallpaper/559/3/HD-wallpaper-green-leaf-texture-green-leaf-eco-background-green-leaf-background-natural-textures.jpg);background-position: center;background-repeat: no-repeat;background-size: 250px 110px;box-shadow: 4px 5px 5px yellow;}
+#para1:hover{font-size: 65px;text-shadow: 3px 3px 3px red; color: rgb(120, 120, 6);margin-top: 68px;}
